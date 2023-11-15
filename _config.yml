@@ -23,16 +23,17 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhengkang Guan"
   avatar           : "images/profile.png"
-  bio              : >
+  bio              : |
     Department of Statistics and Data Science
-    
+    School of Economics
     Xiamen University
-  location         : "Xiamen, Fujian, China"
+
+    wechat: gzk19906039211
+  location         : "Xiamen, China"
   employer         :
   pubmed           : 
   googlescholar    : #""
   email            : "guanzhengkang@stu.xmu.edu.cn"
-  wechat           : "gzk19906039211" 
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
