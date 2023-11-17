@@ -1,6 +1,7 @@
 ---
 permalink: /rp/
 title: ""
+layout: default
 excerpt: ""
 author_profile: true
 redirect_from: 
