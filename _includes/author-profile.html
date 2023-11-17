@@ -11,7 +11,7 @@
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.school %}<p class="author__school">{{ author.school }}</p>{% endif %}
-    {% if author.college %}<p class="author__college">{{ author.college }}</p>{% endif %}
+    {% if author.university %}<p class="author__university">{{ author.university }}</p>{% endif %}
     {% if author.department %}<p class="author__department">{{ author.department }}</p>{% endif %}
     {% if author.bio %}<p class="author__bio">{{ author.bio | safe}}</p>{% endif %}
     <div class="author__content">
@@ -28,10 +28,6 @@
       {% endif %}
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
-      {% endif %}
-      
-      {% if author.wechat %}
-        <li><i class="fab fa-fw fa-weixin" aria-hidden="true"></i> {{ author.wechat }}</li>
       {% endif %}
 
       {% if author.employer %}
@@ -126,6 +122,9 @@
       {% endif %}
       {% if author.impactstory %}
         <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a></li>
+      {% endif %}
+      {% if author.wechat %}
+        <li><i class="fab fa-fw fa-weixin" aria-hidden="true"></i> {{ author.wechat }}</li>
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
