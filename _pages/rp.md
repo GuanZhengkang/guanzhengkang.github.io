@@ -1,10 +1,10 @@
 ---
-permalink: /rp
+permalink: /rp/
 title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
-  - /RP
+  - /RP/
   - /rp.html
 ---
 
