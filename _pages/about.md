@@ -27,7 +27,7 @@ My research interest includes neural machine translation and computer vision.
 
 # Research Proposal
 
-[Download](https://raw.githubusercontent.com/GuanZhengkang/guanzhengkang.github.io/main/docs/2023new.pdf)
+[Download Full Version](https://raw.githubusercontent.com/GuanZhengkang/guanzhengkang.github.io/main/docs/2023new.pdf)
 
 # Publications 
 
