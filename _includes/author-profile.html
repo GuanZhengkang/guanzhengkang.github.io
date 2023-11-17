@@ -13,7 +13,7 @@
     {% if author.school %}<p class="author__school">{{ author.school }}</p>{% endif %}
     {% if author.college %}<p class="author__college">{{ author.college }}</p>{% endif %}
     {% if author.department %}<p class="author__department">{{ author.department }}</p>{% endif %}
-    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    {% if author.bio %}<p class="author__bio">{{ author.bio | safe}}</p>{% endif %}
     <div class="author__content">
     
 </div>
