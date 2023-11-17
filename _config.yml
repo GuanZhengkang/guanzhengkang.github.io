@@ -23,7 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhengkang Guan"
   avatar           : "images/profile2.png"
-  bio              : "Xiamen University"
+  university       : "Xiamen University"
+  school           : ""
+  department       : ""
   location         : "Xiamen, China"
   employer         :
   pubmed           : 
