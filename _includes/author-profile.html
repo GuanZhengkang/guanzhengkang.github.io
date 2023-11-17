@@ -10,9 +10,14 @@
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
-    {% if author.university %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
-    {% if author.school %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
-    {% if author.department %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    {% if author.school %}<p class="author__school">{{ author.school }}</p>{% endif %}
+    {% if author.college %}<p class="author__college">{{ author.college }}</p>{% endif %}
+    {% if author.department %}<p class="author__department">{{ author.department }}</p>{% endif %}
+    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    <div class="author__content">
+    
+</div>
+
   </div>
 
   <div class="author__urls-wrapper">
@@ -26,7 +31,7 @@
       {% endif %}
       
       {% if author.wechat %}
-        <li><i class="fab fa-fw fa-weixin" aria-hidden="true"></i> WeChat: {{ author.wechat }}</li>
+        <li><i class="fab fa-fw fa-weixin" aria-hidden="true"></i> {{ author.wechat }}</li>
       {% endif %}
 
       {% if author.employer %}
