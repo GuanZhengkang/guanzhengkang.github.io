@@ -11,6 +11,9 @@ main:
     
   - title: "Research Proposal"
     url: "/#research-proposal"
+
+  - title: "Research Experience"
+    url: "/#research-experience"
     
   - title: "Rroject"
     url: "/#project"
