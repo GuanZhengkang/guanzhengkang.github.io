@@ -25,9 +25,6 @@ I am Zhengkang Guan,
 
 My research interest includes neural machine translation and computer vision.
 
-# Research Proposal
-
-[Download Full Version](https://raw.githubusercontent.com/GuanZhengkang/guanzhengkang.github.io/main/docs/2023new.pdf)
 
 # Publications 
 
@@ -44,6 +41,15 @@ My research interest includes neural machine translation and computer vision.
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+
+# Research Proposal
+
+[Download Full Version](https://raw.githubusercontent.com/GuanZhengkang/guanzhengkang.github.io/main/docs/2023new.pdf)
+
+# Project
+
+[Download Full Version](https://raw.githubusercontent.com/GuanZhengkang/guanzhengkang.github.io/main/docs/2023new.pdf)
 
 # Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
