@@ -58,7 +58,11 @@ My research interest includes neural machine translation and computer vision.
 # Project
 
 - ***Auto Backdoor Criterion Finding***
-  - An algorithm for automatically discovering sets of nodes satisfying the backdoor criterion in causal graph (structural causal models).
+  - An algorithm for automatically discovering sets of nodes satisfying the backdoor criterion in causal graph.
+  - [View on GitHub](https://guanzhengkang.github.io)
+
+- ***AAAAAA***
+  - An algorithm for automatically discovering sets of nodes satisfying the backdoor criterion in causal graph.
   - [View on GitHub](https://guanzhengkang.github.io)
 
 # Honors and Awards
