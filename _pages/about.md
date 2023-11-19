@@ -57,7 +57,7 @@ My research interest includes
 # Project
 
 - ***Auto Backdoor Criterion Finding***
-  - An algorithm for automatically discovering sets of nodes satisfying the backdoor criterion in causal graph.
+  - Python Package: Automatically discovering sets of nodes satisfying the backdoor criterion in causal graph.
   - [View on GitHub](https://guanzhengkang.github.io)
 
 - ***AAAAAA***
