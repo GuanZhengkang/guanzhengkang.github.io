@@ -47,6 +47,12 @@ My research interest includes neural machine translation and computer vision.
 
 [Download Full Version](https://raw.githubusercontent.com/GuanZhengkang/guanzhengkang.github.io/main/docs/2023new.pdf)
 
+# Research Experience
+
+## Research Internship Position
+
+- *2019.06 - 2022.04 (now)*,
+
 # Project
 
 [Download Full Version](https://raw.githubusercontent.com/GuanZhengkang/guanzhengkang.github.io/main/docs/2023new.pdf)
@@ -57,6 +63,3 @@ My research interest includes neural machine translation and computer vision.
 
 # Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
