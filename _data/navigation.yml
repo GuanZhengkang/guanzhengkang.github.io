@@ -5,12 +5,15 @@ main:
 
   #- title: "News"
   #  url: "/#-news"
-
+  
+  - title: "Publications"
+    url: "/#publications"
+    
   - title: "Research Proposal"
     url: "/#research-proposal"
     
-  - title: "Publications"
-    url: "/#publications"
+  - title: "Rroject"
+    url: "/#project"
 
   - title: "Educations"
     url: "/#educations"
