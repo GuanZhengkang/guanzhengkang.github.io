@@ -44,7 +44,7 @@ My research interest includes
 
 # Research Proposal
 
-### Auto Causal Reasoning
+## Auto Causal Reasoning
 
 AAAA
 
