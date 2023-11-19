@@ -45,21 +45,25 @@ My research interest includes neural machine translation and computer vision.
 
 # Research Proposal
 
+***Auto Causal Reasoning***
+
 [Download Full Version](https://raw.githubusercontent.com/GuanZhengkang/guanzhengkang.github.io/main/docs/2023new.pdf)
 
 # Research Experience
 
 ## Research Internship Position
 
-- *2019.06 - 2022.04 (now)*,
+- *2023.09 - 2024.04 (now)*,
 
 # Project
 
-[Download Full Version](https://raw.githubusercontent.com/GuanZhengkang/guanzhengkang.github.io/main/docs/2023new.pdf)
+***Auto Backdoor Criterion Finding***
+
+[View on GitHub](https://guanzhengkang.github.io)
 
 # Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.04* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.04* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # Educations
 - *2021.09 - 2024.04 (now)*, Bachelor of Science in Data Science and Big Data. Xiamen University, School of Economics, Department of Statistics and Data Science.
