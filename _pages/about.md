@@ -55,6 +55,8 @@ AAAA
 ## Research Internship Position
 
 - *2023.09 - 2024.04 (now)*,
+- mac实习
+- 暑研
 
 # Project
 
@@ -63,12 +65,17 @@ AAAA
   - [View on GitHub](https://guanzhengkang.github.io)
 
 - ***AAAAAA***
-  - An algorithm for automatically discovering sets of nodes satisfying the backdoor criterion in causal graph.
+  - 课程大aproject
   - [View on GitHub](https://guanzhengkang.github.io)
 
 # Honors and Awards
 - *2022.04* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2023.04* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.04* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- 奖学金，竞赛
+
+# Other Experience
+- 寒校
+- 实习
 
 # Educations
 - *2021.09 - 2024.04 (now)*, Bachelor of Science in Data Science and Big Data. Xiamen University, School of Economics, Department of Statistics and Data Science.
