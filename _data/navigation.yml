@@ -5,7 +5,11 @@ main:
 
   #- title: "News"
   #  url: "/#-news"
-  
+
+  - title: "Research Experience and Project"
+    url: "/#Research-Experience-and-Project"
+
+    
   - title: "Publications"
     url: "/#publications"
     
