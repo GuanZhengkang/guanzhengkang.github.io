@@ -36,7 +36,7 @@ My research interest includes
 
 - *2024 Imperial College Data Science Winter School*
   - **Best CV Project**
-- Lorem ipsum dolor sit amet
+- Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet
 </div>
 </div>
 
@@ -50,7 +50,7 @@ My research interest includes
 **Zhengkang Guan**
 
 - *2023 Fall Regression Analysis Course Project*
-- Lorem ipsum dolor sit amet
+- Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet
 </div>
 </div>
 
