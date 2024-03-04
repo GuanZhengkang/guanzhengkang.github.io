@@ -35,8 +35,8 @@ My research interest includes
 **Zhengkang Guan**, Jiayin Liu, Yizhi Zhou
 
 - *2024 Imperial College Data Science Winter School*
-- **Best CV Project**
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+  - **Best CV Project**
+- Lorem ipsum dolor sit amet
 </div>
 </div>
 
@@ -50,7 +50,7 @@ My research interest includes
 **Zhengkang Guan**
 
 - *2023 Fall Regression Analysis Course Project*
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Lorem ipsum dolor sit amet
 </div>
 </div>
 
