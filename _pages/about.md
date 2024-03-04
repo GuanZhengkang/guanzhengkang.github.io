@@ -36,7 +36,7 @@ My research interest includes
 
 - *2024 Imperial College Data Science Winter School*
   - **Best CV Project**
-- Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet
+- Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet.
 </div>
 </div>
 
@@ -50,7 +50,7 @@ My research interest includes
 **Zhengkang Guan**
 
 - *2023 Fall Regression Analysis Course Project*
-- Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet
+- Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet.
 </div>
 </div>
 
@@ -65,9 +65,6 @@ My research interest includes
 - *2023.04* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - 奖学金，竞赛
 
-# Other Experience
-- 寒校
-- 实习
 
 # Educations
 - *2021.09 - 2024.04 (now)*, Bachelor of Science in Data Science and Big Data. Xiamen University, School of Economics, Department of Statistics and Data Science.
