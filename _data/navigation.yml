@@ -10,20 +10,20 @@ main:
     url: "/#Research-Experience-and-Project"
 
     
-  - title: "Publications"
-    url: "/#publications"
+  #- title: "Publications"
+  #  url: "/#publications"
     
-  - title: "Research Proposal"
-    url: "/#research-proposal"
+  #- title: "Research Proposal"
+  #  url: "/#research-proposal"
 
-  - title: "Research Experience"
-    url: "/#research-experience"
+  #- title: "Research Experience"
+  #  url: "/#research-experience"
     
-  - title: "Rroject"
-    url: "/#project"
+  #- title: "Rroject"
+  #  url: "/#project"
   
   - title: "Honors and Awards"
     url: "/#honors-and-awards"
 
-  #- title: "Educations"
-  #  url: "/#educations"
+  - title: "Educations"
+    url: "/#educations"
