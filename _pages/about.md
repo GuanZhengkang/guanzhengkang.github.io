@@ -30,7 +30,7 @@ My research interest includes
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDSI</div><img src='images/ICDSI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Brain Tumor MRI Image Segmentation by 3D U-Net](https://github.com/GuanZhengkang/guanzhengkang.github.io/raw/main/docs/2023new.pdf)
+[Brain Tumor MRI Image Segmentation by 3D U-Net](https://drive.google.com/file/d/1wd5rhknIwVXtRVlhX3cGo4QsbTkFKC7K/view?usp=share_link)
 
 **Zhengkang Guan**, Jiayin Liu, Yizhi Zhou
 
@@ -44,7 +44,7 @@ My research interest includes
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">LiNGAM</div><img src='images/LiNGAM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[From Regression to Causal Discovery: LiNGAM Models for Real World Data](https://github.com/GuanZhengkang/guanzhengkang.github.io/blob/main/docs/2023new.pdf)
+[From Regression to Causal Discovery: LiNGAM Models for Real World Data](https://drive.google.com/file/d/1wd5rhknIwVXtRVlhX3cGo4QsbTkFKC7K/view?usp=share_link)
 
 **Zhengkang Guan**
 
