@@ -30,7 +30,7 @@ My research interest includes
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDSI</div><img src='images/ICDSI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Brain Tumor MRI Image Segmentation by 3D U-Net](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Brain Tumor MRI Image Segmentation by 3D U-Net](https://raw.githubusercontent.com/GuanZhengkang/guanzhengkang.github.io/blob/main/docs/2023new.pdf)
 
 **Zhengkang Guan**, Jiayin Liu, Yizhi Zhou
 
@@ -39,7 +39,6 @@ My research interest includes
 - Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet.
 </div>
 </div>
-
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">LiNGAM</div><img src='images/LiNGAM.png' alt="sym" width="100%"></div></div>
@@ -56,6 +55,8 @@ My research interest includes
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
+- [罗德悖论（Lord’s Paradox）：薛定谔的长胖](https://github.com), A, B, C, **CVPR 2020**
+  - 2024 Spring Multivariate Analysis Course Popularization Essay
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
