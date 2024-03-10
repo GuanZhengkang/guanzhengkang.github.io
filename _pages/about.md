@@ -30,7 +30,7 @@ My research interest includes
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDSI</div><img src='images/ICDSI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Brain Tumor MRI Image Segmentation by 3D U-Net](https://raw.githubusercontent.com/GuanZhengkang/guanzhengkang.github.io/blob/main/docs/2023new.pdf)
+[Brain Tumor MRI Image Segmentation by 3D U-Net](https://github.com/GuanZhengkang/guanzhengkang.github.io/raw/main/docs/2023new.pdf)
 
 **Zhengkang Guan**, Jiayin Liu, Yizhi Zhou
 
