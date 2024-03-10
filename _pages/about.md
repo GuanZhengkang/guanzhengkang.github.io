@@ -45,7 +45,7 @@ My research interest includes
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">LiNGAM</div><img src='images/LiNGAM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[From Regression to Causal Discovery: LiNGAM Models for Real World Data](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[From Regression to Causal Discovery: LiNGAM Models for Real World Data](https://github.com/GuanZhengkang/guanzhengkang.github.io/blob/main/docs/2023new.pdf)
 
 **Zhengkang Guan**
 
