@@ -23,6 +23,8 @@ Hi!
 
 I am Zhengkang Guan, 
 
+3.75, 90.13, 3/44
+
 My research interest includes 
 
 # Research Experience and Project
