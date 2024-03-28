@@ -21,13 +21,13 @@ redirect_from:
 
 Hi!
 
-I am Zhengkang Guan, a junior undergraduate student from the Department of Statistics and Data Science at Xiamen University, and currently seeking a Ph.D. opportunity. 
+I am Zhengkang Guan, a junior undergraduate student from the Department of Statistics and Data Science at Xiamen University, and currently seeking a **Ph.D. opportunity**. 
 
-My average grade is 90.13, with a GPA of 3.75/4, and I am ranked 3rd out of 44 students in my major.
+My average grade is **90.13**, with a GPA of **3.75/4**, and I am ranked **3rd** out of 44 students in my major.
 
 Here are my [Curriculum Vitae (CV)]() and [personal statement (PS)]().
 
-My research interest includes 
+I am interested in pursuing research in the field of Causal Inference, Causal Discovery and Causal Reasoning (in connection to AI) during my doctoral studies.
 
 # Research Experience and Project
 
