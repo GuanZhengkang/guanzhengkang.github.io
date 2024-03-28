@@ -21,7 +21,7 @@ redirect_from:
 
 Hi!
 
-I am Zhengkang Guan, 
+I am Zhengkang Guan, a junior undergraduate student from the Department of Statistics and Data Science at Xiamen University, and currently seeking a Ph.D. opportunity.
 
 3.75, 90.13, 3/44
 
