@@ -25,7 +25,7 @@ I am Zhengkang Guan, a junior undergraduate student from the Department of Stati
 
 My average grade is 90.13, with a GPA of 3.75/4, and I am ranked 3rd out of 44 students in my major.
 
-3.75, 90.13, 3/44
+Here are my [Curriculum Vitae (CV)]() and [personal statement (PS)]().
 
 My research interest includes 
 
