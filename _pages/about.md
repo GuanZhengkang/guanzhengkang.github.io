@@ -34,7 +34,7 @@ I am interested in pursuing research in the field of **Causal Inference**, **Cau
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDSI</div><img src='images/ICDSI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Brain Tumor MRI Image Segmentation by 3D U-Net](pdf.html)
+[Brain Tumor MRI Image Segmentation by 3D U-Net]()
 
 **Zhengkang Guan**, Jiayin Liu, Yizhi Zhou
 
@@ -47,7 +47,7 @@ I am interested in pursuing research in the field of **Causal Inference**, **Cau
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">LiNGAM</div><img src='images/LiNGAM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[From Regression to Causal Discovery: LiNGAM Models for Real World Data](pdf.html)
+[From Regression to Causal Discovery: LiNGAM Models for Real World Data]()
 
 **Zhengkang Guan**
 
@@ -56,9 +56,9 @@ I am interested in pursuing research in the field of **Causal Inference**, **Cau
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](pdf.html), A, B, C, **CVPR 2020**
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](), A, B, C, **CVPR 2020**
 
-- [罗德悖论（Lord’s Paradox）：薛定谔的长胖](pdf.html)
+- [罗德悖论（Lord’s Paradox）：薛定谔的长胖]()
   - 2024 Spring Multivariate Analysis Course Popularization Essay
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
