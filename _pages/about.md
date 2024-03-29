@@ -21,22 +21,20 @@ redirect_from:
 
 Hi!
 
-[pdf](pdf.html)
-
 I am Zhengkang Guan, a junior undergraduate student from the Department of Statistics and Data Science at Xiamen University, and currently seeking a **Ph.D. opportunity**. 
 
 My average grade is **90.13**, with a GPA of **3.75/4**, and I am ranked **3rd** out of 44 students in my major.
 
 Here are my [Curriculum Vitae (CV)]() and [personal statement (PS)]().
 
-I am interested in pursuing research in the field of Causal Inference, Causal Discovery and Causal Reasoning (in connection to AI) during my doctoral studies.
+I am interested in pursuing research in the field of **Causal Inference**, **Causal Discovery** and **Causal Reasoning (in connection to AI)** during my doctoral studies.
 
 # Research Experience and Project
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDSI</div><img src='images/ICDSI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Brain Tumor MRI Image Segmentation by 3D U-Net](https://drive.google.com/file/d/1wd5rhknIwVXtRVlhX3cGo4QsbTkFKC7K/view?usp=share_link)
+[Brain Tumor MRI Image Segmentation by 3D U-Net](pdf.html)
 
 **Zhengkang Guan**, Jiayin Liu, Yizhi Zhou
 
@@ -50,7 +48,7 @@ I am interested in pursuing research in the field of Causal Inference, Causal Di
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">LiNGAM</div><img src='images/LiNGAM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[From Regression to Causal Discovery: LiNGAM Models for Real World Data](https://drive.google.com/file/d/1wd5rhknIwVXtRVlhX3cGo4QsbTkFKC7K/view?usp=share_link)
+[From Regression to Causal Discovery: LiNGAM Models for Real World Data](pdf.html)
 
 **Zhengkang Guan**
 
@@ -59,9 +57,9 @@ I am interested in pursuing research in the field of Causal Inference, Causal Di
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](pdf.html), A, B, C, **CVPR 2020**
 
-- [罗德悖论（Lord’s Paradox）：薛定谔的长胖](https://drive.google.com/file/d/13MULEMQamQ4hciBMGF33SO2Q6YbwbvOv/view?usp=share_link)
+- [罗德悖论（Lord’s Paradox）：薛定谔的长胖](pdf.html)
   - 2024 Spring Multivariate Analysis Course Popularization Essay
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
