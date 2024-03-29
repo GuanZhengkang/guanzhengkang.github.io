@@ -1,3 +1,30 @@
-<html><head><style>html, body, embed { width: 100%; height: 100%; }
-    body { margin: 0; overflow: hidden; }
-    body { background-color: rgb(38, 38, 38) }</style></head><body style="background-color: rgb(128, 128, 128);"><embed name="plugin" src="CV.pdf" type="application/pdf"><div id="annotationContainer"><style>#annotationContainer {    overflow: hidden;     position: absolute;     pointer-events: none;     top: 0;     left: 0;     right: 0;     bottom: 0;     display: -webkit-box;     -webkit-box-align: center;     -webkit-box-pack: center; } .annotation {     position: absolute;     pointer-events: auto; } textarea.annotation {     resize: none; } input.annotation[type='password'] {     position: static;     width: 238px;     height: 20px;     margin-top: 110px;     font-size: 15px; } </style></div></body></html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PDF Viewer</title>
+    <style>
+        html, body {
+            width: 100%;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+        body {
+            overflow: hidden;
+            background-color: #f2f2f2;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        embed {
+            max-width: 100%;
+            max-height: 100%;
+        }
+    </style>
+</head>
+<body>
+    <embed src="https://arxiv.org/pdf/2403.16031v1.pdf" type="application/pdf" width="100%" height="100%">
+</body>
+</html>
