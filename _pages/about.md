@@ -38,8 +38,7 @@ I am interested in pursuing research in the field of **Causal Inference**, **Cau
 
 **Zhengkang Guan**, Jiayin Liu, Yizhi Zhou
 
-- *2024 Imperial College Data Science Winter School*
-  - **Best CV Project**
+- **Best CV Project** --- *2024 Imperial College Data Science Winter School*
 - Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet.
 </div>
 </div>
