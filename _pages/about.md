@@ -21,7 +21,7 @@ redirect_from:
 
 Hi!
 
-[pdf](_includes/pdf.html)
+[pdf](pdf.html)
 
 I am Zhengkang Guan, a junior undergraduate student from the Department of Statistics and Data Science at Xiamen University, and currently seeking a **Ph.D. opportunity**. 
 
