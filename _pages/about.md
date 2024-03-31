@@ -88,14 +88,28 @@ I am interested in pursuing research in the field of **Causal Inference**, **Cau
   - 2024 Spring Multivariate Analysis Course Popularization Essay
 
 
+# Hobbies
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LiNGAM</div><img src='images/LiNGAM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LiNGAM</div><img src='images/LiNGAM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LiNGAM</div><img src='images/LiNGAM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LiNGAM</div><img src='images/LiNGAM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 # Honors and Awards
 <div style="display: flex; justify-content: space-between;">
     <div>Academic Excellence Scholarship (1st Class), School of Economics, XMU</div>
-    <div>10.2022 \& 10.2023</div>
+    <div>10.2022, 10.2023</div>
 </div>
 <div style="display: flex; justify-content: space-between;">
     <div>Cultural and Sports Excellence Scholarship, School of Economics, XMU</div>
-    <div>10.2022 \& 10.2023</div>
+    <div>10.2022, 10.2023</div>
 </div>
 <div style="display: flex; justify-content: space-between;">
     <div>1st Prize, 2023 China Undergraduate Mathematical Contest in Modeling, Fujian Division</div>
@@ -121,11 +135,6 @@ I am interested in pursuing research in the field of **Causal Inference**, **Cau
     <div>Outstanding Referee of Xiamen University Football League</div>
     <div>2022-2023</div>
 </div>
-
-- *2022.04* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2023.04* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- 奖学金，竞赛
-
 
 # Educations
 - *09.2021 - 06.2025*, Bachelor of Science in Data Science and Big Data. Xiamen University, School of Economics, Department of Statistics and Data Science.
