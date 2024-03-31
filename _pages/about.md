@@ -37,7 +37,6 @@ I am interested in pursuing research in the field of **Causal Inference**, **Cau
 
 [Brain Tumor MRI Image Segmentation by 3D U-Net]()
 
-**Zhengkang Guan**, Jiayin Liu, Yizhi Zhou
 
 - **Best CV Project** --- *2024 Imperial College Data Science Winter School*
 - Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet.
@@ -63,8 +62,6 @@ I am interested in pursuing research in the field of **Causal Inference**, **Cau
 <div class='paper-box-text' markdown="1">
 
 [From Regression to Causal Discovery: LiNGAM Models for Real World Data]()
-
-**Zhengkang Guan**
 
 - *2023 Fall Regression Analysis Course Project*
 - Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet.
