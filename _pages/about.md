@@ -93,14 +93,26 @@ I am interested in pursuing research in the field of **Causal Inference**, **Cau
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">LiNGAM</div><img src='images/LiNGAM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">LiNGAM</div><img src='images/LiNGAM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">LiNGAM</div><img src='images/LiNGAM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">LiNGAM</div><img src='images/LiNGAM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
+</div>
+</div>
+</div>
+</div>
 
 # Honors and Awards
 <div style="display: flex; justify-content: space-between;">
