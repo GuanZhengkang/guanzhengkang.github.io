@@ -28,22 +28,10 @@ My average score is **90.13**, with a GPA of **3.75/4**, and I am ranked **3rd**
 Here are my [CV]() and [personal statement]().
 
 I am interested in pursuing research in the field of **Causal Inference**, **Causal Discovery** and **Causal Reasoning (in connection to AI)** during my doctoral studies.
+
 <br>
 
 # Research Experience and Project
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IDCMUC</div><img src='images/LiNGAM.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Practice of Identification Algorithm for Causal Model with Unobserved Confounders]()
-
-**Zhengkang Guan**
-
-- *2024 Spring Multivariate Analysis Course Popularization Project*
-- Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet.
-</div>
-</div>
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">3D U-NET</div><img src='images/ICDSI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -55,6 +43,20 @@ I am interested in pursuing research in the field of **Causal Inference**, **Cau
 - Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet.
 </div>
 </div>
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IDCMUC</div><img src='images/LiNGAM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Practice of Identification Algorithm for Causal Model with Unobserved Confounders]()
+
+- *2024 Spring Multivariate Analysis Course Popularization Project*
+- Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet.
+</div>
+</div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">LiNGAM</div><img src='images/LiNGAM.png' alt="sym" width="100%"></div></div>
