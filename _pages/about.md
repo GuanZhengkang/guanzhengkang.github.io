@@ -25,7 +25,7 @@ I am Zhengkang Guan, a junior undergraduate student from the Department of Stati
 
 My average score is **90.13**, with a GPA of **3.75/4**, and I am ranked **3rd** out of 44 students in my major.
 
-Here are my [CV]() and [personal statement]().
+Here are my [resume]() and [personal statement]().
 
 I am interested in pursuing research in the field of **Causal Inference**, **Causal Discovery** and **Causal Reasoning (in connection to AI)** during my doctoral studies.
 
@@ -72,7 +72,7 @@ I am interested in pursuing research in the field of **Causal Inference**, **Cau
 
 
 - [罗德悖论（Lord’s Paradox）：薛定谔的长胖]()
-  - 2024 Spring Multivariate Analysis Course Popularization Essay
+  - 2023 Spring Multivariate Analysis Course Popularization Essay
 
 
 - [罗德悖论（Lord’s Paradox）：薛定谔的长胖]()
