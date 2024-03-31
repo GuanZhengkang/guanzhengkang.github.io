@@ -25,7 +25,7 @@ I am Zhengkang Guan, a junior undergraduate student from the Department of Stati
 
 My average score is **90.13**, with a GPA of **3.75/4**, and I am ranked **3rd** out of 44 students in my major.
 
-Here are my [Curriculum Vitae (CV)]() and [personal statement (PS)]().
+Here are my [CV]() and [personal statement]().
 
 I am interested in pursuing research in the field of **Causal Inference**, **Causal Discovery** and **Causal Reasoning (in connection to AI)** during my doctoral studies.
 <br>
