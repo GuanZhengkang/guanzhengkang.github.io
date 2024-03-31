@@ -89,26 +89,37 @@ I am interested in pursuing research in the field of **Causal Inference**, **Cau
 
 
 # Honors and Awards
-- {Academic Excellence Scholarship ($1^{\text{st}}$ Class), School of Economics, XMU}{\large\textit{10.2022 \& 10.2023}}
-- {Cultural and Sports Excellence Scholarship, School of Economics, XMU }{\large\textit{10.2022 \& 10.2023}}
-- {1st Prize, 2023 China Undergraduate Mathematical Contest in Modeling, Fujian Division}{\large\textit{12.2023}}
-- {2nd Prize, 2022 China Undergraduate Statistical Contest in Modeling, Zhejiang Division}{\large\textit{08.2022}}
-- {2nd Prize, 2022 China Undergraduate Mathematical Contest in Modeling, Fujian Division}{\large\textit{12.2022}}
-- {1st Place, 2021 Xiamen University Football Association Cup League, XMU}{\large\textit{2021 \textasciitilde \ 2022}}
-- {1st Place, 2022 Xiamen University Five-a-side Football League, XMU}{\large\textit{2022 \textasciitilde \ 2023}}
-- {Outstanding Referee of Xiamen University Football League}{\large\textit{2022 \textasciitilde \ 2023}}
-
 <div style="display: flex; justify-content: space-between;">
-    <div>- Item 1</div>
-    <div>时间: 2024-03-31</div>
+    <div>Academic Excellence Scholarship (1st Class), School of Economics, XMU</div>
+    <div>10.2022 \& 10.2023</div>
 </div>
 <div style="display: flex; justify-content: space-between;">
-    <div>- Item 2</div>
-    <div>时间: 2024-03-31</div>
+    <div>Cultural and Sports Excellence Scholarship, School of Economics, XMU</div>
+    <div>10.2022 \& 10.2023</div>
 </div>
 <div style="display: flex; justify-content: space-between;">
-    <div>- Item 3</div>
-    <div>时间: 2024-03-31</div>
+    <div>1st Prize, 2023 China Undergraduate Mathematical Contest in Modeling, Fujian Division</div>
+    <div>12.2023</div>
+</div>
+<div style="display: flex; justify-content: space-between;">
+    <div>2nd Prize, 2022 China Undergraduate Statistical Contest in Modeling, Zhejiang Division</div>
+    <div>08.2022</div>
+</div>
+<div style="display: flex; justify-content: space-between;">
+    <div>2nd Prize, 2022 China Undergraduate Mathematical Contest in Modeling, Fujian Division</div>
+    <div>12.2022</div>
+</div>
+<div style="display: flex; justify-content: space-between;">
+    <div>1st Place, 2021 Xiamen University Football Association Cup League, XMU</div>
+    <div>2021-2022</div>
+</div>
+<div style="display: flex; justify-content: space-between;">
+    <div>1st Place, 2022 Xiamen University Five-a-side Football League, XMU</div>
+    <div>2022-2023</div>
+</div>
+<div style="display: flex; justify-content: space-between;">
+    <div>Outstanding Referee of Xiamen University Football League</div>
+    <div>2022-2023</div>
 </div>
 
 - *2022.04* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
