@@ -29,6 +29,9 @@ Here are my [Curriculum Vitae (CV)]() and [personal statement (PS)]().
 
 I am interested in pursuing research in the field of **Causal Inference**, **Causal Discovery** and **Causal Reasoning (in connection to AI)** during my doctoral studies.
 
+<br>
+<br>
+
 # Research Experience and Project
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">LiNGAM</div><img src='images/LiNGAM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -43,7 +46,7 @@ I am interested in pursuing research in the field of **Causal Inference**, **Cau
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">3D-UNET</div><img src='images/ICDSI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">3D U-NET</div><img src='images/ICDSI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Brain Tumor MRI Image Segmentation by 3D U-Net]()
@@ -72,43 +75,14 @@ I am interested in pursuing research in the field of **Causal Inference**, **Cau
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">LiNGAM</div><img src='images/LiNGAM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[From Regression to Causal Discovery: LiNGAM Models for Real World Data]()
-
-**Zhengkang Guan**
-
-- *2023 Fall Regression Analysis Course Project*
-- Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet.
-</div>
-</div>
-
-
 
 - [罗德悖论（Lord’s Paradox）：薛定谔的长胖]()
   - 2024 Spring Multivariate Analysis Course Popularization Essay
 
 
-# Hobbies
+- [罗德悖论（Lord’s Paradox）：薛定谔的长胖]()
+  - 2024 Spring Multivariate Analysis Course Popularization Essay
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LiNGAM</div><img src='images/LiNGAM.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LiNGAM</div><img src='images/LiNGAM.png' alt="sym" width="100%"></div></div>
-
-</div>
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LiNGAM</div><img src='images/LiNGAM.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LiNGAM</div><img src='images/LiNGAM.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-</div>
-</div>
-</div>
-</div>
 
 # Honors and Awards
 <div style="display: flex; justify-content: space-between;">
