@@ -78,6 +78,7 @@ I am interested in pursuing research in the field of **Causal Inference**, **Cau
 - [罗德悖论（Lord’s Paradox）：薛定谔的长胖]()
   - 2024 Spring Multivariate Analysis Course Popularization Essay
 
+<br>
 
 # Honors and Awards
 <div style="display: flex; justify-content: space-between;">
