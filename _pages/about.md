@@ -46,7 +46,7 @@ I am interested in pursuing research in the field of **Causal Inference**, **Cau
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IDCMUC</div><img src='images/LiNGAM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ID-CMUC</div><img src='images/LiNGAM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Practice of Identification Algorithm for Causal Model with Unobserved Confounders]()
@@ -71,7 +71,7 @@ I am interested in pursuing research in the field of **Causal Inference**, **Cau
 </div>
 
 
-- [罗德悖论（Lord’s Paradox）：薛定谔的长胖]()
+- [Survey]()
   - 2023 Spring Multivariate Analysis Course Popularization Essay
 
 
