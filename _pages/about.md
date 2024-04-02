@@ -55,8 +55,7 @@ My research interests primarily lie in the domains of **Causal Inference**, **Ca
 
 [From Regression to Causal Discovery: LiNGAM Models for Real World Data](https://drive.google.com/file/d/1UK8maOWSK4uhPbgGN3gz7uRWS6SDqOgn/view?usp=share_link)
 
-**Zhengkang Guan**
-- *2023 Fall Regression Analysis Course Project*
+**Zhengkang Guan** - *2023 Fall Regression Analysis Course Project*
 - Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet.
 </div>
 </div>
