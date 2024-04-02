@@ -24,7 +24,7 @@ Hi!
 
 I am Zhengkang Guan, a junior undergraduate student from the Department of Statistics and Data Science at Xiamen University. Currently I am actively seeking opportunities to pursue a **Ph.D. program**.
 
-I have maintained an impressive academic record with an average score of 90.13 and a GPA of 3.75/4. Furthermore, I am honored to be ranked 3rd out of 44 students in my major.
+I have maintained an impressive academic record with an average score of **90.13** and a GPA of 3.75/4. Furthermore, I am honored to be ranked 3rd out of 44 students in my major.
 
 Here is my [resume](https://drive.google.com/file/d/1vy0w8ZEcfNFNWkBDrOQW-QFyWG3W4Yij/view?usp=share_link).
 
