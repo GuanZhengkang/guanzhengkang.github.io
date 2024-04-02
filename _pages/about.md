@@ -65,7 +65,7 @@ My research interests primarily lie in the domains of **Causal Inference**, **Ca
 </div>
 
 
-
+<!--
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SURVEY</div><img src='images/LiNGAM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -110,7 +110,7 @@ My research interests primarily lie in the domains of **Causal Inference**, **Ca
 </div>
 
 
-
+-->
 
 
 - [A Survey of Causal Inference and Model Comparison](https://drive.google.com/file/d/1wb_9t16eWqzxN2YIzFUhGv-FLZ50IC8c/view?usp=share_link)
