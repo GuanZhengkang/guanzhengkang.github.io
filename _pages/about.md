@@ -59,7 +59,7 @@ My research interests primarily lie in the domains of **Causal Inference**, **Ca
 - *2023 Fall Regression Analysis Course Project*
 - Simulations and feasible analysis of Linear Non-Gaussian Acyclic Model applied to real-world data
 - Comparative analysis of ICA-based Algorithm and Direct Algorithm
-- In contrast, the ICA-based Algorithm exhibits stronger robustness to non-normality assumptions and performs well on real-world data with simple structures.
+- In contrast, the ICA-based algorithm demonstrates greater robustness to non-normality assumptions and performs effectively on real-world data with simple structures, highlighting the potential of LiNGAM in empirical research.
 
 </div>
 </div>
