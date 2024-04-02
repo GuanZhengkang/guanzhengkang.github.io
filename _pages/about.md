@@ -58,13 +58,11 @@ I am interested in pursuing research in the field of **Causal Inference**, **Cau
 </div>
 </div>
 
-
-- [Practice of Identification Algorithm for Causal Model with Unobserved Confounders](https://github.com/GuanZhengkang/Identification-Algorithm-for-Causal-Model-with-Unobserved-Confounders) **(In Progress)**
-  - *2024 Spring Multivariate Analysis Course Popularization Project*
-
 - [A Survey of Causal Inference and Model Comparison](https://drive.google.com/file/d/1wb_9t16eWqzxN2YIzFUhGv-FLZ50IC8c/view?usp=share_link)
   - *2023 Spring Mathematical Statistics Course Project*
 
+- [Practice of Identification Algorithm for Causal Model with Unobserved Confounders](https://github.com/GuanZhengkang/Identification-Algorithm-for-Causal-Model-with-Unobserved-Confounders) **(In Progress)**
+  - *2024 Spring Multivariate Analysis Course Popularization Project*
 
 - [罗德悖论（Lord’s Paradox）：薛定谔的长胖](https://drive.google.com/file/d/1E8n7gisWOYCG3TB9E8bg5SqgnZ-B3ZH_/view?usp=share_link)
   - *2024 Spring Multivariate Analysis Course Popularization Essay*
