@@ -35,7 +35,7 @@ I am interested in pursuing research in the field of **Causal Inference**, **Cau
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">3D U-NET</div><img src='images/ICDSI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Brain Tumor MRI Image Segmentation by 3D U-Net]()
+[Brain Tumor MRI Image Segmentation by 3D U-Net](https://drive.google.com/file/d/13WulF-Z1ah890ofi7_NX9-nh4P2hdHgL/view?usp=share_link)
 
 **Zhengkang Guan**, Jiayin Liu, Yizhi Zhou
 - **Best CV Project** --- *2024 Imperial College Data Science Winter School*
@@ -50,7 +50,7 @@ I am interested in pursuing research in the field of **Causal Inference**, **Cau
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">LiNGAM</div><img src='images/LiNGAM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[From Regression to Causal Discovery: LiNGAM Models for Real World Data]()
+[From Regression to Causal Discovery: LiNGAM Models for Real World Data](https://drive.google.com/file/d/1UK8maOWSK4uhPbgGN3gz7uRWS6SDqOgn/view?usp=share_link)
 
 **Zhengkang Guan**
 - *2023 Fall Regression Analysis Course Project*
@@ -59,15 +59,15 @@ I am interested in pursuing research in the field of **Causal Inference**, **Cau
 </div>
 
 
-- [Practice of Identification Algorithm for Causal Model with Unobserved Confounders]()
+- [Practice of Identification Algorithm for Causal Model with Unobserved Confounders](https://github.com/GuanZhengkang/Identification-Algorithm-for-Causal-Model-with-Unobserved-Confounders)
   - *2024 Spring Multivariate Analysis Course Popularization Project*
   - **In Progress**
 
-- [A Survey of Causal Inference and Model Comparison]()
+- [A Survey of Causal Inference and Model Comparison](https://drive.google.com/file/d/1wb_9t16eWqzxN2YIzFUhGv-FLZ50IC8c/view?usp=share_link)
   - *2023 Spring Mathematical Statistics Course Project*
 
 
-- [罗德悖论（Lord’s Paradox）：薛定谔的长胖]()
+- [罗德悖论（Lord’s Paradox）：薛定谔的长胖](https://drive.google.com/file/d/1E8n7gisWOYCG3TB9E8bg5SqgnZ-B3ZH_/view?usp=share_link)
   - *2024 Spring Multivariate Analysis Course Popularization Essay*
 
 <br>
