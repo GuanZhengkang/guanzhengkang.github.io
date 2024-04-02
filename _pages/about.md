@@ -65,17 +65,6 @@ My research interests primarily lie in the domains of **Causal Inference**, **Ca
 </div>
 
 
-- [A Survey of Causal Inference and Model Comparison](https://drive.google.com/file/d/1wb_9t16eWqzxN2YIzFUhGv-FLZ50IC8c/view?usp=share_link)
-  - *2023 Spring Mathematical Statistics Course Project*
-
-- [Practice of Identification Algorithm for Causal Model with Unobserved Confounders](https://github.com/GuanZhengkang/Identification-Algorithm-for-Causal-Model-with-Unobserved-Confounders) **(In Progress)**
-  - *2024 Spring Multivariate Analysis Course Popularization Project*
-
-- [罗德悖论（Lord’s Paradox）：薛定谔的长胖](https://drive.google.com/file/d/1E8n7gisWOYCG3TB9E8bg5SqgnZ-B3ZH_/view?usp=share_link)
-  - *2024 Spring Multivariate Analysis Course Popularization Essay*
-
-
-
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SURVEY</div><img src='images/LiNGAM.png' alt="sym" width="100%"></div></div>
@@ -119,6 +108,22 @@ My research interests primarily lie in the domains of **Causal Inference**, **Ca
 
 </div>
 </div>
+
+
+
+
+
+- [A Survey of Causal Inference and Model Comparison](https://drive.google.com/file/d/1wb_9t16eWqzxN2YIzFUhGv-FLZ50IC8c/view?usp=share_link)
+  - *2023 Spring Mathematical Statistics Course Project*
+
+- [Practice of Identification Algorithm for Causal Model with Unobserved Confounders](https://github.com/GuanZhengkang/Identification-Algorithm-for-Causal-Model-with-Unobserved-Confounders) **(In Progress)**
+  - *2024 Spring Multivariate Analysis Course Popularization Project*
+
+- [罗德悖论（Lord’s Paradox）：薛定谔的长胖](https://drive.google.com/file/d/1E8n7gisWOYCG3TB9E8bg5SqgnZ-B3ZH_/view?usp=share_link)
+  - *2024 Spring Multivariate Analysis Course Popularization Essay*
+
+
+
 
 
 
