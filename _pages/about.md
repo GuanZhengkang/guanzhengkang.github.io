@@ -26,7 +26,7 @@ I am Zhengkang Guan, a junior undergraduate student from the Department of Stati
 
 I have maintained an impressive academic record with an average score of 90.13 and a GPA of 3.75/4. Furthermore, I am honored to be ranked 3rd out of 44 students in my major.
 
-Here is my [resume](https://drive.google.com/file/d/1WAPSKkMjKvhtEfXvqOxQHahkqV86snk4/view?usp=share_link).
+Here is my [resume](https://drive.google.com/file/d/1vy0w8ZEcfNFNWkBDrOQW-QFyWG3W4Yij/view?usp=share_link).
 
 My research interests primarily lie in the domains of **Causal Inference**, **Causal Discovery**, and **Causal Reasoning (intersections with AI)**. I am eager to delve deeper into these areas during my doctoral studies.
 
@@ -55,8 +55,12 @@ My research interests primarily lie in the domains of **Causal Inference**, **Ca
 
 [From Regression to Causal Discovery: LiNGAM Models for Real World Data](https://drive.google.com/file/d/1UK8maOWSK4uhPbgGN3gz7uRWS6SDqOgn/view?usp=share_link)
 
-**Zhengkang Guan** - *2023 Fall Regression Analysis Course Project*
-- Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet.
+**Zhengkang Guan**
+- *2023 Fall Regression Analysis Course Project*
+- Simulations and feasible analysis of Linear Non-Gaussian Acyclic Model applied to real-world data
+- Comparative analysis of ICA-based Algorithm and Direct Algorithm
+- In contrast, the ICA-based Algorithm exhibits stronger robustness to non-normality assumptions and performs well on real-world data with simple structures.
+
 </div>
 </div>
 
