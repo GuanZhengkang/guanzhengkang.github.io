@@ -40,7 +40,7 @@ My research interests primarily lie in the domains of **Causal Inference**, **Ca
 
 **Zhengkang Guan**, Jiayin Liu, Yizhi Zhou
 - **Best CV Project** --- *2024 Imperial College Data Science Winter School*
-- Using 3D-Net network for segmentation of low-resolution brain tumor MRI images with small sample sizes, achieving a Dice coefficient of 85.4\% on the test set.
+- Using 3D-Net network for segmentation of low-resolution brain tumor MRI images with small sample sizes, achieving a Dice coefficient of 85.4% on the test set.
 - Experiments indicate that commonly used data augmentation methods do not effectively address the challenges posed by small sample sizes and low-resolution, instead leading to a significant increase in training costs.
 - We employ a region-restricted normalization approach, which significantly enhances the efficiency of the network.
 </div>
