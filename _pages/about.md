@@ -40,9 +40,7 @@ My research interests primarily lie in the domains of **Causal Inference**, **Ca
 
 **Zhengkang Guan**, Jiayin Liu, Yizhi Zhou
 
-*01.2024-02.2024*
-
-- **Best CV Project** --- *2024 Imperial College Data Science Winter School*
+- **Best CV Project** --- *2024 Imperial College Data Science Winter School*   *01.2024 - 02.2024*
 - Using 3D-Net network for segmentation of low-resolution brain tumor MRI images with small sample sizes, achieving a Dice coefficient of 85.4% on the test set.
 - Experiments indicate that commonly used data augmentation methods do not effectively address the challenges posed by small sample sizes and low-resolution, instead leading to a significant increase in training costs.
 - We employ a region-restricted normalization approach, which significantly enhances the efficiency of the network.
@@ -60,9 +58,8 @@ My research interests primarily lie in the domains of **Causal Inference**, **Ca
 
 **Zhengkang Guan**
 
-*10.2023-12.2023*
 
-- *2023 Fall Regression Analysis Course Project*
+- *2023 Fall Regression Analysis Course Project*   *10.2023 - 12.2023*
 - Simulations and feasible analysis of Linear Non-Gaussian Acyclic Model applied to real-world data
 - Comparative analysis of ICA-based Algorithm and Direct Algorithm
 - In contrast, the ICA-based algorithm demonstrates greater robustness to non-normality assumptions and performs effectively on real-world data with simple structures, highlighting the potential of LiNGAM in empirical research.
@@ -120,7 +117,7 @@ My research interests primarily lie in the domains of **Causal Inference**, **Ca
 
 
 - [A Survey of Causal Inference and Model Comparison](https://drive.google.com/file/d/1wb_9t16eWqzxN2YIzFUhGv-FLZ50IC8c/view?usp=share_link)
-  - *2023 Spring Mathematical Statistics Course Project*
+  - *2023 Spring Mathematical Statistics Course Project*   *04.2023 - 06.2023*
 
 - [Practice of Identification Algorithm for Causal Model with Unobserved Confounders](https://github.com/GuanZhengkang/Identification-Algorithm-for-Causal-Model-with-Unobserved-Confounders) **(In Progress)**
   - *2024 Spring Multivariate Analysis Course Popularization Project*
