@@ -41,11 +41,11 @@ My research interests primarily lie in the domains of **Causal Inference**, **Ca
 **Zhengkang Guan**, Jiayin Liu, Yizhi Zhou
 
 - **Best CV Project** --- *2024 Imperial College Data Science Winter School*   *(01.2024 - 02.2024)*
-- Low-Resolution Small Dataset Version of the Brain Tumor Segmentation (BraTS) Challenge
+- Low-Resolution Small Dataset Version of the Brain Tumor Segmentation (LS-BraTS) Challenge
 - Using 3D-Net network for segmentation and achieving a Dice coefficient of 85.4% on the test set, securing the top position.
-- Our experiments indicate that commonly used data augmentation methods do not effectively address the challenges posed by small sample sizes and low-resolution, instead leading to a significant increase in training costs.
-- The accuracy improvement from enhancing the U-Net network structure is also not significant, even though it consumes more computational resources.
-- We employ a region-restricted normalization approach, which significantly enhances the efficiency of the network. And it does not increase the training burden; instead, it leads to earlier convergence during network training.
+- Our experiments indicate that commonly used data augmentation methods do **not** effectively address the challenges posed by small sample sizes and low-resolution, instead leading to a significant increase in training costs.
+- The accuracy improvement from enhancing the U-Net network structure is also **not** significant, even though it consumes more computational resources.
+- We employ a **region-restricted normalization** approach, which significantly enhances the efficiency of the network. And it does not increase the training burden; instead, it leads to earlier convergence during network training.
 </div>
 </div>
 
@@ -65,7 +65,7 @@ My research interests primarily lie in the domains of **Causal Inference**, **Ca
 - From ordinary linear regression model to linear DAG models for causal discovery by non-Gaussianity
 - Simulations and feasible analysis of Linear Non-Gaussian Acyclic Model applied to real-world data
 - Comparative analysis of ICA-based Algorithm and Direct Algorithm
-- In contrast, the ICA-based algorithm demonstrates greater robustness to non-normality assumptions and performs effectively on real-world data with simple structures, highlighting the potential of LiNGAM in empirical research.
+- In contrast, the ICA-based algorithm demonstrates **greater robustness** to non-normality assumptions and performs **effectively** on real-world data with simple structures, highlighting the potential of LiNGAM in empirical research.
 
 </div>
 </div>
@@ -122,7 +122,7 @@ My research interests primarily lie in the domains of **Causal Inference**, **Ca
 - [A Survey of Causal Inference and Model Comparison](https://drive.google.com/file/d/1wb_9t16eWqzxN2YIzFUhGv-FLZ50IC8c/view?usp=share_link)
   - *2023 Spring Mathematical Statistics Course Project*   *(04.2023 - 06.2023)*
 
-- [Practice of Identification Algorithm for Causal Model with Unobserved Confounders](https://github.com/GuanZhengkang/Identification-Algorithm-for-Causal-Model-with-Unobserved-Confounders) **(In Progress)**
+- [Practice of Identification Algorithm for Semi-Markovian Causal Model](https://github.com/GuanZhengkang/Identification-Algorithm-for-Causal-Model-with-Unobserved-Confounders) **(In Progress)**
   - *2024 Spring Multivariate Analysis Course Popularization Project*
 
 - [罗德悖论（Lord’s Paradox）：薛定谔的长胖](https://drive.google.com/file/d/1E8n7gisWOYCG3TB9E8bg5SqgnZ-B3ZH_/view?usp=share_link)
