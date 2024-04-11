@@ -39,6 +39,9 @@ My research interests primarily lie in the domains of **Causal Inference**, **Ca
 [Brain Tumor MRI Image Segmentation by 3D U-Net](https://drive.google.com/file/d/13WulF-Z1ah890ofi7_NX9-nh4P2hdHgL/view?usp=share_link)
 
 **Zhengkang Guan**, Jiayin Liu, Yizhi Zhou
+
+*01.2024-02.2024*
+
 - **Best CV Project** --- *2024 Imperial College Data Science Winter School*
 - Using 3D-Net network for segmentation of low-resolution brain tumor MRI images with small sample sizes, achieving a Dice coefficient of 85.4% on the test set.
 - Experiments indicate that commonly used data augmentation methods do not effectively address the challenges posed by small sample sizes and low-resolution, instead leading to a significant increase in training costs.
@@ -56,6 +59,9 @@ My research interests primarily lie in the domains of **Causal Inference**, **Ca
 [From Regression to Causal Discovery: LiNGAM Models for Real World Data](https://drive.google.com/file/d/1UK8maOWSK4uhPbgGN3gz7uRWS6SDqOgn/view?usp=share_link)
 
 **Zhengkang Guan**
+
+*10.2023-12.2023*
+
 - *2023 Fall Regression Analysis Course Project*
 - Simulations and feasible analysis of Linear Non-Gaussian Acyclic Model applied to real-world data
 - Comparative analysis of ICA-based Algorithm and Direct Algorithm
