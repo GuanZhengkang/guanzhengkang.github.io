@@ -62,6 +62,7 @@ My research interests primarily lie in the domains of **Causal Inference**, **Ca
 
 
 - *2023 Fall Regression Analysis Course Project*   *(10.2023 - 12.2023)*
+- From ordinary linear regression model to linear DAG models for causal discovery by non-Gaussianity
 - Simulations and feasible analysis of Linear Non-Gaussian Acyclic Model applied to real-world data
 - Comparative analysis of ICA-based Algorithm and Direct Algorithm
 - In contrast, the ICA-based algorithm demonstrates greater robustness to non-normality assumptions and performs effectively on real-world data with simple structures, highlighting the potential of LiNGAM in empirical research.
