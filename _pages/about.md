@@ -33,6 +33,28 @@ My research interests primarily lie in the domains of **Graph Model**, **Causal 
 <br>
 
 # Research Experience and Project
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MG-MCMC</div><img src='images/LiNGAM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Learning Linear Mix-Gaussian Acyclic Model by MG-MAP MCMC](https://drive.google.com/file/d/1UK8maOWSK4uhPbgGN3gz7uRWS6SDqOgn/view?usp=share_link)
+
+**Zhengkang Guan**
+
+
+- *2024 Spring Computational Statistics Course Project*   *(02.2024 - 06.2024)*
+- 
+</div>
+</div>
+
+
+
+
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">3D U-NET</div><img src='images/ICDSI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
