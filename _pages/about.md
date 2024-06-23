@@ -44,10 +44,10 @@ My research interests primarily lie in the domains of **Graph Model**, **Causal 
 
 
 - *2024 Spring Computational Statistics Course Project*   *(02.2024 - 06.2024)*
-- Attempting causal discovery under the assumption of mixed Gaussian and non-Gaussian distributions, we propose the Linear Mixed-Gaussian Acyclic Model (LiMGAM).
-- Although we do not assume that all variables follow non-Gaussian distributions, as long as the system contains some non-Gaussian components, we can obtain some information (constraints) about the DAG's topological ordering (causal order).
+- We propose the **Linear Mixed-Gaussian Acyclic Model (LiMGAM)**, attempting causal discovery under the assumption of **mixed** Gaussian and non-Gaussian distributions.
+- As long as the system contains some non-Gaussian components, we can obtain useful information (constraints) about the DAG's topological ordering (causal order).
 - We perform MCMC in the constrained topological ordering space, which significantly reduces the sampling space compared to other MCMC methods used for causal discovery.
-- 
+- Using existing kernel-based methods for likelihood estimation without distributional assumptions does not provide complete likelihood information; it only helps us reject very poor scenarios.
 </div>
 </div>
 
