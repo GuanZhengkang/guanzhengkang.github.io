@@ -35,10 +35,10 @@ My research interests primarily lie in the domains of **Graph Model**, **Causal 
 # Research Experience and Project
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MG-MCMC</div><img src='images/LiMGAM.png' alt="sym" width="100%"></div></div>
+
 <div class='paper-box-text' markdown="1">
 
-[Learning Linear Mix-Gaussian Acyclic Model by MG-MAP MCMC](https://drive.google.com/file/d/1UK8maOWSK4uhPbgGN3gz7uRWS6SDqOgn/view?usp=share_link)
+[Learning Linear Mix-Gaussian Acyclic Model by MG-MAP MCMC](https://drive.google.com/file/d/1N_gtb66d8cFiIfczBREAFeytGbj_ErfP/view?usp=share_link)
 
 **Zhengkang Guan**
 
