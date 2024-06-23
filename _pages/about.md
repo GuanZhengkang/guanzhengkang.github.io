@@ -44,6 +44,9 @@ My research interests primarily lie in the domains of **Graph Model**, **Causal 
 
 
 - *2024 Spring Computational Statistics Course Project*   *(02.2024 - 06.2024)*
+- Attempting causal discovery under the assumption of mixed Gaussian and non-Gaussian distributions, we propose the Linear Mixed-Gaussian Acyclic Model (LiMGAM).
+- Although we do not assume that all variables follow non-Gaussian distributions, as long as the system contains some non-Gaussian components, we can obtain some information (constraints) about the DAG's topological ordering (causal order).
+- We perform MCMC in the constrained topological ordering space, which significantly reduces the sampling space compared to other MCMC methods used for causal discovery.
 - 
 </div>
 </div>
@@ -64,7 +67,6 @@ My research interests primarily lie in the domains of **Graph Model**, **Causal 
 
 - **Best CV Project** --- *2024 Imperial College Data Science Winter School*   *(01.2024 - 02.2024)*
 - Low-Resolution Small Dataset Version of the Brain Tumor Segmentation (LS-BraTS) Challenge
-- Using 3D-Net network for segmentation and achieving a Dice coefficient of 85.4% on the test set, securing the top position.
 - Our experiments indicate that commonly used data augmentation methods do **not** effectively address the challenges posed by small sample sizes and low-resolution, instead leading to a significant increase in training costs.
 - The accuracy improvement from enhancing the U-Net network structure is also **not** significant, even though it consumes more computational resources.
 - We employ a **region-restricted normalization** approach, which significantly enhances the efficiency of the network. And it does not increase the training burden; instead, it leads to earlier convergence during network training.
@@ -84,10 +86,9 @@ My research interests primarily lie in the domains of **Graph Model**, **Causal 
 
 
 - *2023 Fall Regression Analysis Course Project*   *(10.2023 - 12.2023)*
-- From ordinary linear regression model to linear DAG models for causal discovery by non-Gaussianity
 - Simulations and feasible analysis of Linear Non-Gaussian Acyclic Model applied to real-world data
 - Comparative analysis of ICA-based Algorithm and Direct Algorithm
-- In contrast, the ICA-based algorithm demonstrates **greater robustness** to non-normality assumptions and performs **effectively** on real-world data with simple structures, highlighting the potential of LiNGAM in empirical research.
+- In contrast, direct algorithm demonstrates **pooter robustness** to non-normality assumptions and performs **inefficiently** on real-world data with simple structures.
 
 </div>
 </div>
