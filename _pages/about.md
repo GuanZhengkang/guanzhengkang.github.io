@@ -35,7 +35,7 @@ My research interests primarily lie in the domains of **Graph Model**, **Causal 
 # Research Experience and Project
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MG-MCMC</div><img src='images/LiNGAM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MG-MCMC</div><img src='images/LiMGAM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Learning Linear Mix-Gaussian Acyclic Model by MG-MAP MCMC](https://drive.google.com/file/d/1UK8maOWSK4uhPbgGN3gz7uRWS6SDqOgn/view?usp=share_link)
@@ -45,8 +45,8 @@ My research interests primarily lie in the domains of **Graph Model**, **Causal 
 
 - *2024 Spring Computational Statistics Course Project*   *(02.2024 - 06.2024)*
 - We propose the **Linear Mixed-Gaussian Acyclic Model (LiMGAM)**, attempting causal discovery under the assumption of **mixed** Gaussian and non-Gaussian distributions.
-- As long as the system contains some non-Gaussian components, we can obtain useful information (constraints) about the DAG's topological ordering (causal order).
-- We perform MCMC in the constrained topological ordering space, which significantly reduces the sampling space compared to other MCMC methods used for causal discovery.
+- As long as the system contains some non-Gaussian components, we can obtain useful information (constraints) about the DAG's **topological ordering** (causal order).
+- We perform MCMC in the constrained topological ordering space, which significantly **reduces the sampling space** compared to other MCMC methods used for causal discovery.
 - Using existing kernel-based methods for likelihood estimation without distributional assumptions does not provide complete likelihood information; it only helps us reject very poor scenarios.
 </div>
 </div>
