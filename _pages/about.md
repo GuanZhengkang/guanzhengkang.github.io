@@ -38,7 +38,7 @@ My research interests primarily lie in the domains of **Graph Model**, **Causal 
 
 <div class='paper-box-text' markdown="1">
 
-### [Learning Linear Mix-Gaussian Acyclic Model by MG-MAP MCMC](https://drive.google.com/file/d/1N_gtb66d8cFiIfczBREAFeytGbj_ErfP/view?usp=share_link)
+## [Learning Linear Mix-Gaussian Acyclic Model by MG-MAP MCMC](https://drive.google.com/file/d/1N_gtb66d8cFiIfczBREAFeytGbj_ErfP/view?usp=share_link)
 
 **Zhengkang Guan**
 
@@ -48,7 +48,10 @@ My research interests primarily lie in the domains of **Graph Model**, **Causal 
 - As long as the system contains some non-Gaussian components, we can obtain useful information (constraints) about the DAG's **topological ordering** (causal order).
 - We perform MCMC in the constrained topological ordering space, which significantly **reduces the sampling space** compared to other MCMC methods used for causal discovery.
 - Using existing kernel-based methods for likelihood estimation without distributional assumptions does not provide complete likelihood information; it only helps us reject very poor scenarios.
+
 </div>
+
+<br>
 
 ---
 
