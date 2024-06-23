@@ -26,7 +26,7 @@ I am Zhengkang Guan, a junior undergraduate student from the Department of Stati
 
 I have maintained an impressive academic record with an average score of **90.13** and a GPA of 3.75/4. Furthermore, I am honored to be ranked 3rd out of 44 students in my major.
 
-Here is my [resume](https://drive.google.com/file/d/1d7KJAqc2C6Su8ij9CYVVoq8LJUckNlsz/view?usp=share_link) and [transcript](https://drive.google.com/file/d/1lvfGm5SiJ9Slen3dVl1cSkCdLUwu9_UZ/view).
+Here is my [resume](https://drive.google.com/file/d/1qTcwj0IrxdDWPsDSvGiXg68vRXMA_39S/view?usp=share_link) and [transcript](https://drive.google.com/file/d/1EblPs4QfAUuTsPTrjcGecPNUeMJDt0Y4/view?usp=share_link).
 
 My research interests primarily lie in the domains of **Graph Model**, **Causal Inference**, **Causal Discovery**, **Computer Vision** and **Causal Reasoning (intersections with AI)**. I am eager to delve deeper into these areas during my doctoral studies.
 
