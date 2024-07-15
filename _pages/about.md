@@ -28,7 +28,7 @@ I have maintained an impressive academic record with an average score of **90.13
 
 Here is my [resume](https://drive.google.com/file/d/1qTcwj0IrxdDWPsDSvGiXg68vRXMA_39S/view?usp=share_link) and [transcript](https://drive.google.com/file/d/1EblPs4QfAUuTsPTrjcGecPNUeMJDt0Y4/view?usp=share_link).
 
-My research interests primarily lie in the domains of **Graph Model**, **Causal Inference**, **Causal Discovery**, **Computer Vision** and **Causal Reasoning (intersections with AI)**. I am eager to delve deeper into these areas during my doctoral studies.
+My research interests primarily lie in the domains of **Causal Inference**, **Graph Model**, **Causal Discovery** and **Causal Reasoning (intersections with AI)**. I am eager to delve deeper into these areas during my doctoral studies.
 
 <br>
 
@@ -139,7 +139,7 @@ My research interests primarily lie in the domains of **Graph Model**, **Causal 
 </div>
 
 
--->
+
 
 
 - [A Survey of Causal Inference and Model Comparison](https://drive.google.com/file/d/1wb_9t16eWqzxN2YIzFUhGv-FLZ50IC8c/view?usp=share_link)
@@ -151,7 +151,7 @@ My research interests primarily lie in the domains of **Graph Model**, **Causal 
 - [罗德悖论（Lord’s Paradox）：薛定谔的长胖](https://drive.google.com/file/d/1E8n7gisWOYCG3TB9E8bg5SqgnZ-B3ZH_/view?usp=share_link)
   - *2024 Spring Multivariate Analysis Course Popularization Essay*
 
-
+-->
 
 
 
