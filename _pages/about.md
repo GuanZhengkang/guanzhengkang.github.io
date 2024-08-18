@@ -28,7 +28,7 @@ I have maintained an impressive academic record with an average score of **90.37
 
 Here is my [resume](https://drive.google.com/file/d/1qTcwj0IrxdDWPsDSvGiXg68vRXMA_39S/view?usp=share_link) and [transcript](https://drive.google.com/file/d/1EblPs4QfAUuTsPTrjcGecPNUeMJDt0Y4/view?usp=share_link).
 
-My research interests primarily lie in the domains of **Causal Inference**, **Graph Model**, **Causal Discovery** and **Causal Reasoning (intersections with AI)**. I am eager to delve deeper into these areas during my doctoral studies.
+My research interests primarily lie in the domains of **Causal Inference**, **Causal Reasoning (intersections with AI)** and **Causal Discovery**. I am eager to delve deeper into these areas during my doctoral studies.
 
 <br>
 
