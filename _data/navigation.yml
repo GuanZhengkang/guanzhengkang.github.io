@@ -2,12 +2,19 @@
 main:
   - title: "Me"
     url: "/#about-me"
+    
+  - title: "Publications"
+    url: "/#publications/"
+ 
+  - title: "Educations"
+    url: "/#educations"
 
+    
   #- title: "News"
   #  url: "/#-news"
 
-  - title: "Research Experience and Project"
-    url: "/#Research-Experience-and-Project"
+  #- title: "Research Experience and Project"
+  #  url: "/#Research-Experience-and-Project"
 
     
   #- title: "Publications"
@@ -22,8 +29,6 @@ main:
   #- title: "Rroject"
   #  url: "/#project"
   
-  - title: "Honors and Awards"
-    url: "/#honors-and-awards"
+  #- title: "Honors and Awards"
+  #  url: "/#honors-and-awards"
 
-  - title: "Educations"
-    url: "/#educations"
