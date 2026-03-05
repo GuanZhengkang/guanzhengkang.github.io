@@ -22,12 +22,7 @@ redirect_from:
 
 Hi!
 
-
-I am Zhengkang Guan.
-
-I am currently a first-year Ph.D. student at the College of Computer Science and Technology, Zhejiang University, where I am advised by Assoc. Prof. Kun Kuang and Prof. Fei Wu. 
-
-Previously, I received my Bachelor's degree from the Department of Statistics and Data Science at Xiamen University. 
+I am Zhengkang Guan, currently a first-year Ph.D. student at the College of Computer Science and Technology, Zhejiang University, supervised by Assoc. Prof. Kun Kuang and Prof. Fei Wu. Previously, I received my Bachelor's degree from the Department of Statistics and Data Science at Xiamen University. 
 
 My primary research interests lie in **Causality and Machine Learning**, with a particular focus on graph models and causal discovery.
 
