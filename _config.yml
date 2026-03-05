@@ -24,15 +24,15 @@ author:
   name             : "Zhengkang GUAN"
   avatar           : "images/profile2.png"
   bio              : 
-  university       : "Xiamen University"
-  school           : "School of Economics"
-  department       : "Department of Statistics and Data Science<br>"
-  location         : "Xiamen, China"
+  university       : "Zhejiang University"
+  school           : "College of Computer Science and Technology"
+  department       : #"Department of Statistics and Data Science<br>"
+  location         : "Hangzhou, China"
   wechat           : #"gzk19906039211"
   employer         :
   pubmed           : 
   googlescholar    : #""
-  email            : "guanzhengkang@stu.xmu.edu.cn"
+  email            : "zhengkang.guan@zju.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
