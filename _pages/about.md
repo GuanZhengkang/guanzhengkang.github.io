@@ -22,19 +22,57 @@ redirect_from:
 
 Hi!
 
-I am Zhengkang Guan, a final-year undergraduate student from the Department of Statistics and Data Science at Xiamen University. Currently I am actively **seeking** opportunities to pursue a **Ph.D.** program.
 
-I have maintained an impressive academic record with an average score of **90.37** and a GPA of 3.75/4. Furthermore, I am honored to be ranked 3rd out of 44 students in my major.
+I am Zhengkang Guan.
 
-Here is my [resume](https://drive.google.com/file/d/1qTcwj0IrxdDWPsDSvGiXg68vRXMA_39S/view?usp=share_link) and [transcript](https://drive.google.com/file/d/1EblPs4QfAUuTsPTrjcGecPNUeMJDt0Y4/view?usp=share_link).
+I am currently a first-year Ph.D. student at the College of Computer Science and Technology, Zhejiang University, where I am advised by Assoc. Prof. Kun Kuang and Prof. Fei Wu. 
 
-My research interests primarily lie in the domains of **Causal Inference**, **Causal Reasoning (intersections with AI)** and **Causal Discovery**. I am eager to delve deeper into these areas during my doctoral studies.
+Previously, I received my Bachelor's degree from the Department of Statistics and Data Science at Xiamen University. 
+
+My primary research interests lie in **Causality and Machine Learning**, with a particular focus on graph models and causal discovery.
 
 <br>
 
-# Research Experience and Project
+# Publications
 
 
+<div class='paper-box-text' markdown="1">
+
+
+## [Efficient Ensemble Conditional Independence Test Framework for Causal Discovery](https://arxiv.org/abs/2509.21021)
+
+**Zhengkang Guan**, Kun Kuang
+
+- *The Fourteenth International Conference on Learning Representations (ICLR), 2026*
+- **Poster**
+- [PDF](https://arxiv.org/abs/2509.21021)
+
+
+</div>
+
+<br>
+
+
+---
+
+
+# Education
+
+- *09.2025 - Present*, Ph.D. in Computer Science and Technology. *Zhejiang University*.
+  - College of Computer Science and Technology.
+  - Advisors: Assoc. Prof. Kun Kuang & Prof. Fei Wu
+- *09.2021 - 06.2025*, B.S. in Data Science and Big Data. *Xiamen University*.
+  - School of Economics, Department of Statistics and Data Science.
+  - Advisors: Prof. Jingyuan Liu
+
+
+
+
+
+
+
+
+<!--
 
 <div class='paper-box-text' markdown="1">
 
@@ -54,8 +92,6 @@ My research interests primarily lie in the domains of **Causal Inference**, **Ca
 <br>
 
 ---
-
-
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">3D U-NET</div><img src='images/ICDSI.png' alt="sym" width="100%"></div></div>
@@ -94,7 +130,7 @@ My research interests primarily lie in the domains of **Causal Inference**, **Ca
 </div>
 
 
-<!--
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SURVEY</div><img src='images/LiNGAM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -151,10 +187,6 @@ My research interests primarily lie in the domains of **Causal Inference**, **Ca
 - [罗德悖论（Lord’s Paradox）：薛定谔的长胖](https://drive.google.com/file/d/1E8n7gisWOYCG3TB9E8bg5SqgnZ-B3ZH_/view?usp=share_link)
   - *2024 Spring Multivariate Analysis Course Popularization Essay*
 
--->
-
-
-
 
 
 <br>
@@ -193,5 +225,5 @@ My research interests primarily lie in the domains of **Causal Inference**, **Ca
     <div>2022-2023</div>
 </div>
 
-# Educations
-- *09.2021 - 06.2025*, Bachelor of Science in Data Science and Big Data. Xiamen University, School of Economics, Department of Statistics and Data Science.
+-->
+
