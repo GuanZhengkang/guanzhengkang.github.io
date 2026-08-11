@@ -38,8 +38,7 @@ My primary research interests lie in **Causality and Machine Learning**, with a 
 **Zhengkang Guan**, Yikang Chen, Haoyuan Qian, Kairong Han, Peng Cui, Fei Wu, Kun Kuang
 
 - *The 32nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2026*
-- [PDF](https://dl.acm.org/doi/abs/10.1145/3770855.3818030) [[Code](https://github.com/GuanZhengkang/StablePFN)]
-
+- [PDF](https://dl.acm.org/doi/abs/10.1145/3770855.3818030), [Code](https://github.com/GuanZhengkang/StablePFN)
 
 </div>
 
@@ -52,7 +51,7 @@ My primary research interests lie in **Causality and Machine Learning**, with a 
 **Zhengkang Guan**, Kun Kuang
 
 - *The 14th International Conference on Learning Representations (ICLR), 2026*
-- [PDF](https://arxiv.org/abs/2509.21021) [[Code](https://github.com/GuanZhengkang/ECIT)]
+- [PDF](https://arxiv.org/abs/2509.21021), [Code](https://github.com/GuanZhengkang/ECIT)
 
 </div>
 
