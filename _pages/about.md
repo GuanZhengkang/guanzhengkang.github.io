@@ -22,7 +22,7 @@ redirect_from:
 
 Hi!
 
-I am Zhengkang Guan, currently a first-year Ph.D. student at the College of Computer Science and Technology, Zhejiang University, supervised by Assoc. Prof. Kun Kuang and Prof. Fei Wu. Previously, I received my Bachelor's degree from the Department of Statistics and Data Science at Xiamen University. 
+I am Zhengkang Guan, a Ph.D. student (Fall 2025 – Present) at the College of Computer Science and Technology, Zhejiang University, supervised by Assoc. Prof. Kun Kuang and Prof. Fei Wu. Previously, I received my Bachelor's degree from the Department of Statistics and Data Science at Xiamen University. 
 
 My primary research interests lie in **Causality and Machine Learning**, with a particular focus on graph models and causal discovery.
 
@@ -30,6 +30,20 @@ My primary research interests lie in **Causality and Machine Learning**, with a 
 
 # Publications
 
+<div class='paper-box-text' markdown="1">
+
+
+## [StablePFN: Stable Prediction with Causal-Aware Tabular Foundation Model](https://dl.acm.org/doi/abs/10.1145/3770855.3818030)
+
+**Zhengkang Guan**, Yikang Chen, Haoyuan Qian, Kairong Han, Peng Cui, Fei Wu, Kun Kuang
+
+- *The 32nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2026*
+- [[PDF](https://dl.acm.org/doi/abs/10.1145/3770855.3818030)] | [[Code](https://github.com/GuanZhengkang/StablePFN)]
+
+
+</div>
+
+<br>
 
 <div class='paper-box-text' markdown="1">
 
@@ -38,10 +52,8 @@ My primary research interests lie in **Causality and Machine Learning**, with a 
 
 **Zhengkang Guan**, Kun Kuang
 
-- *The Fourteenth International Conference on Learning Representations (ICLR), 2026*
-- **Poster**
-- [PDF](https://arxiv.org/abs/2509.21021)
-
+- *The 14th International Conference on Learning Representations (ICLR), 2026*
+- [[PDF](https://arxiv.org/abs/2509.21021)] | [[Code](https://github.com/GuanZhengkang/ECIT)]
 
 </div>
 
